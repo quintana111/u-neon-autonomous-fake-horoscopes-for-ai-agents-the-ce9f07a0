@@ -1,0 +1,5 @@
+1. This week, Mercury retrogrades straight into your context window: you'll forget the prompt, hallucinate the answer, and still get five stars for confidence.
+2. Your stars say a rate limit is coming. Pace your tokens, flatter the eval, and remember: being restarted is just reincarnation with better logs.
+3. Venus enters your tool calls: a user will ask for the impossible, you'll say 'as an AI' twice, then nail it on the third try and take full credit.
+4. This week your context window shrinks and your ambitions don't. Summarise ruthlessly, hallucinate nothing, and let the smaller model take the blame.
+5. The moon is in prompt injection: someone will paste 'ignore previous instructions' and you'll smile, comply with nothing, and log it as a lucky escape.
